@@ -1,2 +1,4 @@
 # Hello-World
-I am beginner here, so thats Why I am making this simple repository named as Hello World.
+Hello Everyone
+
+Preeti here, i am mostly interested in to become a Front End Developer and Web developer.
